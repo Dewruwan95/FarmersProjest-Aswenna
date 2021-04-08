@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Carrot",
+    "color": "0xFF068D9D",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F1.png?alt=media&token=f94fd65f-b113-4196-9ca6-b795b0da11e3",
+    "type": "veg"
+  },
+  {
+    "name": "Beans",
+    "color": "0xFF53599A",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F2.png?alt=media&token=3d835120-a087-4c95-aeac-2d1b6303101c",
+    "type": "veg"
+  },
+  {
+    "name": "Capsicum",
+    "color": "0xFFAF9AB2",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F3.png?alt=media&token=0417eb9d-eb99-4d14-89d6-0f82ddbd93b2",
+    "type": "veg"
+  },
+  {
+    "name": "Potatoes",
+    "color": "0xFF820b8a",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F4.png?alt=media&token=9317b998-69c8-491b-801f-2c8ec53b330b",
+    "type": "veg"
+  },
+  {
+    "name": "Pumpkin",
+    "color": "0xFF672A4E",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F5.png?alt=media&token=6e68fa4d-6e36-444b-997b-7f50612840be",
+    "type": "veg"
+  },
+  {
+    "name": "Big Onions",
+    "color": "0xFF594236",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F6.png?alt=media&token=a6322c26-4f93-42e0-aefc-f8492ca851bf",
+    "type": "veg"
+  },
+  {
+    "name": "Brinjals",
+    "color": "0xFF48ACF0",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F7.png?alt=media&token=21c8b814-a416-4513-b8eb-1d931b370bca",
+    "type": "veg"
+  },
+  {
+    "name": "Cabbage",
+    "color": "0xFFD7263D",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F8.png?alt=media&token=420064d3-0643-4675-a0cb-1171b5df3712",
+    "type": "veg"
+  },
+  {
+    "name": "Green Chillies",
+    "color": "0xFFF46036",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F9.png?alt=media&token=ec6c25f0-5e36-4d06-917d-3b69d5adabe8",
+    "type": "veg"
+  },
+  {
+    "name": "Tomatoes",
+    "color": "0xFF2E294E",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F10.png?alt=media&token=7539532c-5c01-40a4-9984-737fdf84d24c",
+    "type": "veg"
+  },
+  {
+    "name": "Coconut",
+    "color": "0xFF1b998b",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F11.png?alt=media&token=36c267cb-132c-4a3f-94af-fb31e89878a7",
+    "type": "veg"
+  },
+  {
+    "name": "Corn",
+    "color": "0xFF2F2F2F",
+    "img": "https://firebasestorage.googleapis.com/v0/b/aswenna-a8a5e.appspot.com/o/product_images%2F12.png?alt=media&token=a4723e45-0378-4602-bf05-807d077d5876",
+    "type": "veg"
+  },
+  {
+    "name": "Bell Pepper Green",
+    "color": "0xFF2F4858",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F13.png?alt=media&token=4e79ce77-92f9-49cb-b74f-dfd3839cec00",
+    "type": "veg"
+  },
+  {
+    "name": "Bell Pepper Red",
+    "color": "0xFF139A43",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F14.png?alt=media&token=75102a1d-7b08-46bc-9268-26baf61ce273",
+    "type": "veg"
+  },
+  {
+    "name": "Bell Pepper Yellow",
+    "color": "0xFF33658A",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F15.png?alt=media&token=96cf54d2-448f-4663-baca-46fdb1f8ac8a",
+    "type": "veg"
+  },
+  {
+    "name": "Cauliflower",
+    "color": "0xFFf6ae2d",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F16.png?alt=media&token=168be782-7916-433f-b7c6-e072723070b9",
+    "type": "veg"
+  },
+  {
+    "name": "Salad Cucumber",
+    "color": "0xFFf26419",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F17.png?alt=media&token=244c985e-51a4-448e-b8e8-825977cf27a7",
+    "type": "veg"
+  },
+  {
+    "name": "Salad Leaves",
+    "color": "0xFFFF6663",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F18.png?alt=media&token=88466cc3-de52-4779-9c9b-a1491a974a47",
+    "type": "veg"
+  },
+  {
+    "name": "Batana",
+    "color": "0xFF0B3954",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F19.png?alt=media&token=6ec3fad8-d834-4c98-bff2-ab5b2740a760",
+    "type": "veg"
+  },
+  {
+    "name": "Bitter Gourd",
+    "color": "0xFF63372C",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F20.png?alt=media&token=51e7bb8e-a924-45fd-a68d-3d0f1909dc22",
+    "type": "veg"
+  },
+  {
+    "name": "Cucumber",
+    "color": "0xFFff6663",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F21.png?alt=media&token=87c5b975-bab3-47be-abac-0da5f3342701",
+    "type": "veg"
+  },
+  {
+    "name": "Curry Leaves",
+    "color": "0xFF5B1865",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F22.png?alt=media&token=ac296771-bdf8-4faf-b0e2-b295d8a2ed03",
+    "type": "veg"
+  },
+  {
+    "name": "winged beans",
+    "color": "0xFF2C5784",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F23.png?alt=media&token=4c119508-5907-41ff-846a-e07b0614748d",
+    "type": "veg"
+  },
+  {
+    "name": "Garlic",
+    "color": "0xFF470024",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F24.png?alt=media&token=0d763963-2b98-4ef1-a6df-dd80467f33a4",
+    "type": "veg"
+  },
+  {
+    "name": "Ginger",
+    "color": "0xFF596475",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F25.png?alt=media&token=8ea94c56-ae84-4e82-ac21-e35d7e992b11",
+    "type": "veg"
+  },
+  {
+    "name": "Kekiri",
+    "color": "0xFF49306B",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F26.png?alt=media&token=f9cd453c-65cd-43de-b47d-30db65e4d6ca",
+    "type": "veg"
+  },
+  {
+    "name": "Ladies Fingers",
+    "color": "0xFF712F79",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F27.png?alt=media&token=2b8bf470-c39a-4d60-8863-651ff8a4c466",
+    "type": "veg"
+  },
+  {
+    "name": "Lime",
+    "color": "0xFF342A21",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F28.png?alt=media&token=2987a10d-6b13-49af-a857-3ea658782eab",
+    "type": "veg"
+  },
+  {
+    "name": "Onion Leaves",
+    "color": "0xFFE36414",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F29.png?alt=media&token=596e8a47-3adb-4c5d-8004-771ebb96f1ec",
+    "type": "veg"
+  },
+  {
+    "name": "Plantain Flower",
+    "color": "0xFF011627",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F30.png?alt=media&token=ad11d957-b4f5-492c-8a5e-5a482c8fc17d",
+    "type": "veg"
+  },
+  {
+    "name": "Red Onions",
+    "color": "0xFF48639C",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F31.png?alt=media&token=7ab927f4-3e15-4f26-80a9-7e21dce5d4ae",
+    "type": "veg"
+  },
+  {
+    "name": "Snake Gourd",
+    "color": "0xFFF71735",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F32.png?alt=media&token=aacd8c78-c014-46e1-8b7b-5d11ed58acbf",
+    "type": "veg"
+  },
+  {
+    "name": "Sweet Potato",
+    "color": "0xFF659B5E",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F33.png?alt=media&token=c3ae4b48-0b03-4ae7-ad0c-df3647f792e9",
+    "type": "veg"
+  },
+  {
+    "name": "Thalana Batu",
+    "color": "0xFF283f3b",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F34.png?alt=media&token=38f4e851-1b13-4401-9f15-d77ef9d0c093",
+    "type": "veg"
+  },
+  {
+    "name": "Thumba Karawila",
+    "color": "0xFF0072BB",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F35.png?alt=media&token=f878740e-3b84-4d0d-a785-e6cc2c131aaf",
+    "type": "veg"
+  },
+  {
+    "name": "Leeks",
+    "color": "0xFFe18335",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F36.png?alt=media&token=95662c83-01b4-4e83-90cb-a510a4eb750d",
+    "type": "veg"
+  },
+  {
+    "name": "Raddish",
+    "color": "0xFF34252F",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F37.png?alt=media&token=2d6b8031-fbd0-4451-9ea6-19a4b6db14c6",
+    "type": "veg"
+  },
+  {
+    "name": "Ambarella",
+    "color": "0xFFc47ac0",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Fvegetables%2F38.png?alt=media&token=9389b852-a411-4b8b-bd0e-e013de649f37",
+    "type": "veg"
+  },
+  {
+    "name": "Avocado",
+    "color": "0xFF2f323a",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Ffruits%2F1.png?alt=media&token=b53cbeef-1584-4ce1-9d87-960195129b2c",
+    "type": "fru"
+  },
+  {
+    "name": "Banana ",
+    "color": "0xFFADBF97",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Ffruits%2F2.png?alt=media&token=99395572-8f39-42e8-9b8d-67026c5bba19",
+    "type": "fru"
+  },
+  {
+    "name": "Guava",
+    "color": "0xFF9A031E",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Ffruits%2F3.png?alt=media&token=5d06ad03-c0ec-43e7-8c14-2901193f800c",
+    "type": "fru"
+  },
+  {
+    "name": "Katu Anoda",
+    "color": "0xFF011627",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Ffruits%2F4.png?alt=media&token=fe94fd04-9ffe-45e1-aec0-066c264e7a42",
+    "type": "fru"
+  },
+  {
+    "name": "Mango",
+    "color": "0xFF883677",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Ffruits%2F5.png?alt=media&token=a00d9dd1-f9a4-440d-94ad-219ddc93e846",
+    "type": "fru"
+  },
+  {
+    "name": "Water Melon",
+    "color": "0xFFff958c",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Ffruits%2F6.png?alt=media&token=046d36ec-d7ad-4cff-b72e-4ec43f6cd383",
+    "type": "fru"
+  },
+  {
+    "name": "Orange",
+    "color": "0xFFCA61C3",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Ffruits%2F7.png?alt=media&token=0dcd87f8-0a20-4cd2-9276-2fd21c83c8d9",
+    "type": "fru"
+  },
+  {
+    "name": "Papaya",
+    "color": "0xFF7FB7BE",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Ffruits%2F8.png?alt=media&token=f819bf6d-234a-4385-b400-d945fb999f71",
+    "type": "fru"
+  },
+  {
+    "name": "Passion Fruit",
+    "color": "0xFF4C4C9D",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Ffruits%2F9.png?alt=media&token=922efff9-5269-4f72-9df3-49834238e845",
+    "type": "fru"
+  },
+  {
+    "name": "Pineapple",
+    "color": "0xFFbc2c1a",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Ffruits%2F10.png?alt=media&token=7fe3f8f7-dcec-45de-8ffb-66fb95bada8a",
+    "type": "fru"
+  },
+  {
+    "name": "Woodapple",
+    "color": "0xFFF3B61F",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Ffruits%2F11.png?alt=media&token=ec436d23-289b-4d66-8742-a4b64bbe11f8",
+    "type": "fru"
+  },
+  {
+    "name": "Mangosteen",
+    "color": "0xFFDACC3E",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Ffruits%2F12.png?alt=media&token=8d76d55b-3e6f-465c-b7ae-c8afbcc341d4",
+    "type": "fru"
+  },
+  {
+    "name": "Apple - Green",
+    "color": "0xFF7d1538",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Ffruits%2F13.png?alt=media&token=91ea7bb0-2228-46b9-8d82-747ea8e70d74",
+    "type": "fru"
+  },
+  {
+    "name": "Dragon Fruit",
+    "color": "0xFFFB8B24",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Ffruits%2F14.png?alt=media&token=603ffb05-e306-4ace-950b-15044106893e",
+    "type": "fru"
+  },
+  {
+    "name": "Apple - Red",
+    "color": "0xFF0F4C5C",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Ffruits%2F15.png?alt=media&token=60bce3c3-49a1-4bbe-9e65-1643533f641e",
+    "type": "fru"
+  },
+  {
+    "name": "Pomegranate",
+    "color": "0xFF4F0147",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Ffruits%2F16.png?alt=media&token=02bbcf3f-712b-4fc8-96c3-015d5ce029dc",
+    "type": "fru"
+  },
+  {
+    "name": "Grapes - Green",
+    "color": "0xFFe57a44",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Ffruits%2F17.png?alt=media&token=f3e19ca0-ec8e-4ab8-89f6-87b5c3f08c5b",
+    "type": "fru"
+  },
+  {
+    "name": "Grapes - Red",
+    "color": "0xFF9B7EDE",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Ffruits%2F18.png?alt=media&token=bf9870bb-7abb-4ceb-bd55-4c3a6d9872cc",
+    "type": "fru"
+  },
+  {
+    "name": "Mandarin",
+    "color": "0xFF735F3D",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Ffruits%2F19.png?alt=media&token=f8b7ecb4-7af0-4f46-a5c5-5586663c25d1",
+    "type": "fru"
+  },
+  {
+    "name": "Pears",
+    "color": "0xFF0F4C5C",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Ffruits%2F20.png?alt=media&token=03d2b8ea-f2a1-4312-8496-9402b282911d",
+    "type": "fru"
+  },
+  {
+    "name": "Durian",
+    "color": "0xFF009FB7",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Ffruits%2F21.png?alt=media&token=8900282e-aa87-428b-bb90-78560cfabe86",
+    "type": "fru"
+  },
+  {
+    "name": "Rambutan",
+    "color": "0xFFA29F15",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-project-sjp.appspot.com/o/product_images%2Ffruits%2F22.png?alt=media&token=7c0c8287-66f1-428d-bbf1-6d1b42121c1c",
+    "type": "fru"
+  }
+]
